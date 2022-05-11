@@ -232,7 +232,7 @@
 >cd MindStudio/bin
 >./MindStudio.sh #这一步会检查环境变量的依赖，会提示failure，因为缺少的相关依赖，直接按照提示命令执行安装即可
 >#部分依赖包由于网站在国外，无法连接下载，可以在我的CSDN中下载我已经下好上传的依赖包文件
->#CSDN链接：
+>#CSDN链接：https://download.csdn.net/download/qq_44133248/85327557
 >```
 >
 >![image-20220429105323394](HUAWEI%20Atlas%20200%20DK%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.assets/image-20220429105323394.png) 
